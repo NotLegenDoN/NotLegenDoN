@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm NotLegenDoN a little boy from Portugal who love learn more things.
 
 <!--
 **NotLegenDoN/NotLegenDoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
