@@ -1,16 +1,13 @@
-### Hi I'm NotLegenDoN a little boy from Portugal who love learn more things.😄⚡ 
+<p align="center">
 
-<!--
-**NotLegenDoN/NotLegenDoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://discord.gg/hxSuzuF3kx"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
+<a href="https://discord.com/users/633798999476011013"><img src="https://img.shields.io/badge/-@ydroxz.π_%234547-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://discord.c99.nl/widget/theme-3/633798999476011013.png)
+
+
+
+![](https://discord.c99.nl/widget/theme-3/633798999476011013.png)
+
+  </p>
